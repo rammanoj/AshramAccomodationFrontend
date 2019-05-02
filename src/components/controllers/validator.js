@@ -2,8 +2,8 @@ const validator = {
   username: {
     rules: [
       {
-        test: /^[a-z0-9_]+$/,
-        message: "Username can contain lowecase letters and numbers only"
+        test: /^[a-z0-9]+$/,
+        message: "Username can contain  alphabets and numbers only"
       },
       {
         test: value => {
