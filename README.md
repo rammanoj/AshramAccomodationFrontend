@@ -1,3 +1,3 @@
-## HotelManagemnet APp frontend
+## Ashram Accomodation System APP frontend
 
-README will be updated soon.
+Link to Backend code: https://github.com/rammanoj/AshramAccomodation
